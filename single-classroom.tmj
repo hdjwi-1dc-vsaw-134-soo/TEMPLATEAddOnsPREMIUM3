@@ -1557,7 +1557,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"signle-classroom.png"
+         "value":"single-classroom.png"
         }, 
         {
          "name":"mapName",
